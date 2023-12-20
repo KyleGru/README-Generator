@@ -49,7 +49,7 @@ function renderLicenseSection(license) {
   }
 }
 
-// TODO: Create a function to generate markdown for README
+// Function to generate markdown for README
 function generateMarkdown(data) {
   
   const { title, githubUsername, email, what, why, learn, how, installation, license, confirmContributers, contribute, test } = data;
@@ -89,7 +89,7 @@ function generateMarkdown(data) {
   ${licenseLink}
   ${licenseSection}
 
-  ##Contributing
+  ## Contributing
   ${confirmContributers ? contribute : 'Contributions are not accepted at the moment'}
 
   ## Tests
