@@ -28,6 +28,8 @@
   ## Installation
   To install this application go to the link to the repository below. From there click the green code button and click the "Download ZIP" option in the dropdown menu. From there you can copy those files into a directory of your choice in your terminal. Open the file in whatever editor you like to use and then open the terminal in that editor to make sure you"re in the correct directory. Now you are able to run the application.
 
+  Link to repository: "https://github.com/KyleGru/README-Generator"
+
   ## License
   [MIT license](https://opensource.org/licenses/MIT)
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
